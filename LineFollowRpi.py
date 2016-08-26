@@ -90,7 +90,7 @@ try:
 #00010
     elif (s1==0)and(s2==0)and(s3==0)and(s4==1)and(s5==0):
       print "right4"
-      right()
+      forward()
       p1.start(9)
       p2.start(20)
       sleep(0.5)
